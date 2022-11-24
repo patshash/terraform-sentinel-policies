@@ -55,6 +55,8 @@ param allowed_module_sources default [
   "localterraform.com/*/caf/azurerm",
   "app.terraform.io/Cloud-Operations/cloud-storage/google",
   "localterraform.com/*/cloud-storage/google",
+  "app.terraform.io/pcarey-demo/mongodeploy/mongodbatlas",
+  "ausmartway/vcs-connected-workspace/tfe",
 ]
 
 # Initialize validated. We'll flip to false if we find a violation.
